@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Hola, soy Javi
 
-<!--
-**Javier17-17/Javier17-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).  
+    Buscando prácticas / primera oportunidad como Junior.
 
-Here are some ideas to get you started:
+## Tecnologías
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Java
+- **Base de datos:** MySQL / SQL
+- **Otros:** Python, Bash, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Proyectos destacados
+- Football Manager (Full Stack)** — CRUD + Login + MySQL  
+- CRM
+
+##  Objetivo
+Construir aplicaciones web completas (frontend + backend + base de datos)
+siguiendo estándares profesionales y enfocadas a problemas reales.
+
+##Contacto
+- LinkedIn: https://www.linkedin.com/in/javier-sanchez-ca%C3%B1averas-4a42373b0/
+- Email: javiersanchezcanaverass@gmail.com
